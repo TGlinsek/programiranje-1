@@ -1,0 +1,6 @@
+V vsc naložimo:
+- python (microsoft)
+- reason (Ocaml and Reason IDE)
+
+v terminal damo
+python -m pip install pandas numpy jupyter requests matplotlib dash

@@ -1,0 +1,4 @@
+če gremo pod "copy" v nekem github repoju, damo https, kopiramo link, pol:
+- gremo v vsc
+- gremo v tretji panel (tam ko je za git)
+- kliknemo copy repository (če tega ni, damo ctrl shift n, da odpremo vsc še enkrat)
