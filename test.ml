@@ -1,1 +1,1 @@
-# let square x = x * x;;
+# let square x = x * x * x;;
